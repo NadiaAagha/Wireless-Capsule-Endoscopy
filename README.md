@@ -32,4 +32,4 @@ This project is licensed under the **MIT License**.
 
 ## Author  
 **Nadia Agha**  
-Master of Computer in Information Technology, Ghazi University  
+MSIT  
