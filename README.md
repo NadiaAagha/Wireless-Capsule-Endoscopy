@@ -17,10 +17,8 @@ The dataset used is **Kvasir-Capsule**, which contains **14 different gastrointe
 - Achieved **96.82% accuracy**  
 
 ## How to Run  
-1. Clone this repository:  
-git clone https://github.com/NadiaAgha/Wireless-Capsule-Endoscopy.git
-2. Open `SMOTECNN.ipynb` in Jupyter Notebook or Google Colab.  
-3. Run all cells to train and test the model.  
+1. Open `SMOTECNN.ipynb` in Jupyter Notebook or Google Colab.  
+2. Run all cells to train and test the model.  
 
 ## Results  
 | Model    | Accuracy | Precision | Recall |  
